@@ -4,7 +4,7 @@
 // License text available at https://opensource.org/licenses/MIT
 
 import {Client} from '@loopback/testlab';
-import {TodoListApplication} from '../..';
+import {TodoListApplication} from '../../application';
 import {setupApplication} from './test-helper';
 
 describe('TodoApplication', () => {
